@@ -1,0 +1,24 @@
+{
+  "name": "loginregitrationsystem",
+  "version": "1.0.0",
+  "description": "Nodejs, with MongoDB, Passport",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mwarukason/Login-System-with-NodeJS.git"
+  },
+  "keywords": [
+    "nodejs",
+    "passport",
+    "mongodb"
+  ],
+  "author": "Amri Shabani Mwaruka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mwarukason/Login-System-with-NodeJS/issues"
+  },
+  "homepage": "https://github.com/Mwarukason/Login-System-with-NodeJS#readme"
+}
