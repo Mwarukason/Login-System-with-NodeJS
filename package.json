@@ -2,7 +2,7 @@
   "name": "loginregitrationsystem",
   "version": "1.0.0",
   "description": "Nodejs, with MongoDB, Passport",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,6 +17,22 @@
   ],
   "author": "Amri Shabani Mwaruka",
   "license": "ISC",
+  "dependencies":{
+    "bcryptjs": "*",
+    "body-parser":"*",
+    "connect-flash":"*",
+    "cookie-parser":"^1.4.1",
+    "express":"*",
+    "express-handlebars":"*",
+    "express-messages":"*",
+    "express-session":"*",
+    "express-validator":"*",
+    "mongodb":"*",
+    "mongoose":"*",
+    "passport":"*",
+    "passport-http":"*",
+    "passport-local":"*"
+  },
   "bugs": {
     "url": "https://github.com/Mwarukason/Login-System-with-NodeJS/issues"
   },
